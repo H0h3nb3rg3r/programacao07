@@ -1,0 +1,12 @@
+{
+  "name": "crud-js-bootstrap",
+  "version": "1.0.0",
+  "description": "CRUD de projetos de aula com JS + Bootstrap + json-server",
+  "scripts": {
+    "start": "json-server --watch work.json --port 3000"
+  },
+  "devDependencies": {
+    "json-server": "0.17.4"
+  },
+  "license": "MIT"
+}
